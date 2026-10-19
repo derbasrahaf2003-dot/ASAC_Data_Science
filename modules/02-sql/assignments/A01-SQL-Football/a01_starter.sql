@@ -1,6 +1,6 @@
 -- Assignment 1: Jordan on the world stage, in SQL
--- Name:
--- TA group:
+-- Name:rahaf  mahmoud derbas
+-- TA group: sondas alarqan 
 --
 -- Save this file as A01_<FirstName>_<LastName>.sql.
 -- Under every query: the number of rows it returned, and one sentence that answers the question.
